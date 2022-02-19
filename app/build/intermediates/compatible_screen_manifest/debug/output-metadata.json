@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "iuh_ad.phamthanhtrung.msv_19502701.changemaker",
+  "variantName": "debug",
+  "elements": []
+}

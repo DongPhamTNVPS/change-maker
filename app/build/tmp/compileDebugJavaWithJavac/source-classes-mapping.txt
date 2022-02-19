@@ -1,0 +1,2 @@
+com/dong_pham/phamhavandong_19500311_changemaker/BuildConfig.java
+ com.dong_pham.phamhavandong_19500311_changemaker.BuildConfig
